@@ -8,6 +8,8 @@ Paper: [https://flashsampling.github.io/FlashSampling/FlashSampling.pdf](https:/
 
 **Date:** February 28, 2026
 
+![](./FlashSampling.png) 
+
 ## Citation
 
 ```bibtex
