@@ -6,7 +6,7 @@
 
 **Project Page:** [FlashSampling/FlashSampling](https://github.com/FlashSampling/FlashSampling) 
 
-**Author:** Tomas Ruiz*, Zhen Qin*, [Yifan Zhang†](https://yfz.ai), Xuyang Shen, Yiran Zhong, Mengdi Wang†
+**Author:** Tomas Ruiz\*, Zhen Qin\*, [Yifan Zhang†](https://yfz.ai), Xuyang Shen, Yiran Zhong, Mengdi Wang†
 
 **Date:** February 28, 2026
 
