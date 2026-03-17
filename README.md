@@ -4,7 +4,7 @@
 
 **Paper:** [https://flashsampling.github.io/FlashSampling/FlashSampling.pdf](https://flashsampling.github.io/FlashSampling/FlashSampling.pdf) 
 
-**Author:** Tomas Ruiz, Zhen Qin, Yifan Zhang, Xuyang Shen, Yiran Zhong, Mendi Wang 
+**Author:** Tomas Ruiz*, Zhen Qin*, [Yifan Zhang†](https://yfz.ai), Xuyang Shen, Yiran Zhong, Mengdi Wang†
 
 **Date:** February 28, 2026
 
