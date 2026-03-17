@@ -2,7 +2,7 @@
 
 ### FlashSampling: Fast and Memory-Efficient Exact Sampling 
 
-Paper: [https://flashsampling.github.io/FlashSampling/FlashSampling.pdf](https://flashsampling.github.io/FlashSampling/FlashSampling.pdf) 
+**Paper:** [https://flashsampling.github.io/FlashSampling/FlashSampling.pdf](https://flashsampling.github.io/FlashSampling/FlashSampling.pdf) 
 
 **Author:** Tomas Ruiz, Zhen Qin, Yifan Zhang, Xuyang Shen, Yiran Zhong, Mendi Wang 
 
