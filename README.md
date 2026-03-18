@@ -7,7 +7,7 @@
 
 ### FlashSampling: Fast and Memory-Efficient Exact Sampling 
 
-We present FlashSampling, an exact sampling primitive that fuses sampling into the LM-head matmul and never materializes the logits tensor in HBM. The method is simple: compute logits tile-by-tile on chip, add Gumbel noise, keep only one maximizer per row and per vocabulary tile, and finish with a small reduction over tiles. 
+We present FlashSampling, an exact sampling primitive that fuses sampling into the LM-head matmul and never materializes the logits tensor in HBM. The method is simple: compute logits tile-by-tile on chip, add Gumbel noise, keep only one maximizer per row and per vocabulary tile, and finish with a small reduction over tiles. FlashSampling enables efficient categorical sampling by fusing the operation into the language model head matmul, eliminating memory overhead and reducing decoding time by up to 19%. 
 
 **Author:** Tomas Ruiz\*, Zhen Qin\*, [Yifan Zhang†](https://yfz.ai), Xuyang Shen, Yiran Zhong, Mengdi Wang†
 
